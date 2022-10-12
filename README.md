@@ -13,16 +13,16 @@
 |    Prog. 9     |            Basic PHP Operations             |       [LAB9][lab9]       | 
 |    Prog. 10    |                Selection Sort               |      [LAB10][lab10]      | 
 
-[lab1]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program1/LabProgram1.txt
-[lab2]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program2/LabProgram2.txt
-[lab3]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program3/LabProgram3.txt
-[lab4]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program4/LabProgram4.txt
-[lab5]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program5/LabProgram5.txt
-[lab6]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program6/LabProgram6.txt
-[lab7]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program7/LabProgram7.txt
-[lab8]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program8/LabProgram8.txt
-[lab9]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program9/LabProgram9.txt
-[lab10]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program10/LabProgram10.txt
+[lab1]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program1/LabProgram1.html
+[lab2]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program2/LabProgram2.html
+[lab3]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program3/LabProgram3.html
+[lab4]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program4/LabProgram4.html
+[lab5]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program5/LabProgram5.html
+[lab6]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program6/LabProgram6.php
+[lab7]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program7/LabProgram7.php
+[lab8]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program8/LabProgram8.php
+[lab9]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program9/LabProgram9.php
+[lab10]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program10/LabProgram10.php
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
