@@ -1,26 +1,31 @@
-# Assembly_Language_Programming
+# HTML_PHP_JAVASCRIPT_
 
-|    Program     |                        Title of Program                        |   Programming Solution   | 
-| :------------: | :-------------------------------------------------------------:| :----------------------: | 
-|    Prog. 1     |                   Multiply 2 16-Bit Numbers                    |       [LAB1][lab1]       |
-|    Prog. 2     |                   Sum of First Ten Integers                    |       [LAB2][lab2]       | 
-|    Prog. 3     |                     Factorial of a Number                      |       [LAB3][lab3]       |
-|    Prog. 4     |              Addition of Array of 16 Bit Numbers               |       [LAB4][lab4]       | 
-|    Prog. 5     |          Square of Number (1-10) using Look Up Table           |       [LAB5][lab5]       | 
-|    Prog. 6     |          Largest/Smallest in Array of 32 Bit Numbers           |       [LAB6][lab6]       | 
-|    Prog. 7     | Arrange Series of 32 Bit Numbers in Ascending/Descending Order |       [LAB7][lab7]       | 
-|    Prog. 8     |       Number of 1's and 0's in Consecutive Memory Location     |       [LAB8][lab8]       | 
+|    Program     |              Title of Program               |   Programming Solution   | 
+| :------------: | :------------------------------------------:| :----------------------: | 
+|    Prog. 1     |             Simple Calculator               |       [LAB1][lab1]       |
+|    Prog. 2     |   Square and Cube of Numbers from 1 to 10   |       [LAB2][lab2]       | 
+|    Prog. 3     | "Text Growing" and "Text Shrinking" Problem |       [LAB3][lab3]       |
+|    Prog. 4     |         Basic Javascript Functions          |       [LAB4][lab4]       | 
+|    Prog. 5     |            Student Information              |       [LAB5][lab5]       | 
+|    Prog. 6     |             Number of Visitor               |       [LAB6][lab6]       | 
+|    Prog. 7     |               Digital Clock                 |       [LAB7][lab7]       | 
+|    Prog. 8     |      Calculator and Matrix Operations       |       [LAB8][lab8]       | 
+|    Prog. 9     |            Basic PHP Operations             |       [LAB9][lab9]       | 
+|    Prog. 10    |                Selection Sort               |      [LAB10][lab10]      | 
 
-[lab1]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program1/PROGRAM1.S
-[lab2]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program2/PROGRAM2.S
-[lab3]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program3/PROGRAM3.S
-[lab4]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program4/PROGRAM4.S
-[lab5]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program5/PROGRAM5.S
-[lab6]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program6/PROGRAM6.S
-[lab7]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program7/PROGRAM7.S
-[lab8]: https://github.com/amit25bhalerao/Assembly-Language-Programming/tree/main/Program8/PROGRAM8.S
+[lab1]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program1/LabProgram1.txt
+[lab2]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program2/LabProgram2.txt
+[lab3]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program3/LabProgram3.txt
+[lab4]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program4/LabProgram4.txt
+[lab5]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program5/LabProgram5.txt
+[lab6]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program6/LabProgram6.txt
+[lab7]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program7/LabProgram7.txt
+[lab8]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program8/LabProgram8.txt
+[lab9]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program9/LabProgram9.txt
+[lab10]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program10/LabProgram10.txt
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 List of HTML-PHP-JAVASCRIPT-XML Programs included in the repository:
 
 <p align="justify"> 
