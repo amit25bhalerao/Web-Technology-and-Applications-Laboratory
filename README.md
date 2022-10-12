@@ -1,6 +1,6 @@
 # Assembly_Language_Programming
 
-|    Program     |           Title of Program                                     |   Programming Solution   | 
+|    Program     |                        Title of Program                        |   Programming Solution   | 
 | :------------: | :-------------------------------------------------------------:| :----------------------: | 
 |    Prog. 1     |                   Multiply 2 16-Bit Numbers                    |       [LAB1][lab1]       |
 |    Prog. 2     |                   Sum of First Ten Integers                    |       [LAB2][lab2]       | 
