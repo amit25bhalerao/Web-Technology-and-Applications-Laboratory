@@ -1,4 +1,4 @@
-# Web_Technology_and_Applications_Laboratory_Programs
+# Web Technology and Applications Laboratory Programs
 
 |    Program     |              Title of Program               |   Programming Solution   | 
 | :------------: | :------------------------------------------:| :----------------------: | 
