@@ -1,4 +1,4 @@
-# HTML_PHP_JAVASCRIPT_XML Programs
+# Web_Technology_and_Application_Laboratory_Programs
 
 |    Program     |              Title of Program               |   Programming Solution   | 
 | :------------: | :------------------------------------------:| :----------------------: | 
@@ -26,7 +26,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-List of HTML-PHP-JAVASCRIPT-XML Programs included in the repository:
+List of Web Technology and Application Laboratory Programs included in the repository:
 
 <p align="justify"> 
 Program 1 • Write a JavaScript to design a simple calculator to perform the following operations: sum, product, difference and quotient.
