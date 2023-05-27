@@ -1,4 +1,19 @@
-# Web Technology and Applications Laboratory Programs
+## Web Technology and Applications Laboratory Programs
+
+Welcome to the Web Technology and Applications Laboratory Programs repository. This repository contains a collection of programs developed for the Web Technology and Applications Laboratory course. These programs aim to provide hands-on experience and practical implementation of various web technologies and concepts.
+
+### Table of Contents
+
+1. Program 1: Simple Calculator
+2. Program 2: Square and Cube of Numbers from 1 to 10
+3. Program 3: "Text Growing" and "Text Shrinking" Problem
+4. Program 4: Basic JavaScript Functions
+5. Program 5: Student Information
+6. Program 6: Number of Visitors
+7. Program 7: Digital Clock
+8. Program 8: Calculator and Matrix Operations
+9. Program 9: Basic PHP Operations
+10. Program 10: Selection Sort
 
 |    Program     |              Title of Program               |   Programming Solution   | 
 | :------------: | :------------------------------------------:| :----------------------: | 
@@ -24,58 +39,20 @@
 [lab9]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program9/LabProgram9.php
 [lab10]: https://github.com/amit25bhalerao/HTML-PHP-JAVASCRIPT-XML-Programming/tree/main/Program10/LabProgram10.php
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Usage
 
-List of Web Technology and Applications Laboratory Programs included in the repository:
+Each program in this repository is accessible through the provided links. The programming solutions are implemented using HTML, CSS, JavaScript, and PHP, depending on the requirements of the program.
 
-<p align="justify"> 
-Program 1 • Write a JavaScript to design a simple calculator to perform the following operations: sum, product, difference and quotient.
-</p>
+To use the programs, navigate to the desired program's directory and access the corresponding HTML, CSS, or PHP file. Some programs may require a web server or a specific environment for execution. Make sure to set up the necessary environment and follow any instructions mentioned in the program's documentation.
 
-<p align="justify"> 
-Program 2 • Write a JavaScript that calculates the squares and cubes of the numbers from 0 to 10 and outputs HTML text that displays the resulting values in an HTML table format.
-</p>
+### Contribution
 
-<p align="justify"> 
-Program 3 • Write a JavaScript code that displays text “TEXT-GROWING” with increasing font size in the interval of 100ms in RED COLOR, when the font size reaches 50pt it displays “TEXT-SHRINKING” in BLUE color. Then the font size decreases to 5pt.
-</p>
+Contributions to this repository are encouraged. If you have any improvements, bug fixes, or additional programs related to web technologies and applications, feel free to create a pull request. Ensure that your contributions align with the repository's guidelines and maintain coding standards.
 
-<p align="justify"> 
-Program 4 • Develop and demonstrate a HTML5 file that includes JavaScript script that uses functions for the following problems:<br>
-a) Parameter: A string <br>
-b) Output: The position in the string of the left-most vowel<br>
-c) Parameter: A number<br>
-d) Output: The number with its digits in the reverse order<br>
-</p>
+### License and Disclaimer
 
-<p align="justify"> 
-Program 5 • Design an XML document to store information about a student in an engineering college affiliated to VTU. The information must include USN, Name, and Name of the College, Branch, Year of Joining, and email id. Make up sample data for 3students. Create a CSS style sheet and use it to display the document.
-</p>
+The programs in this repository are provided under the [MIT License](https://opensource.org/licenses/MIT). However, please note that while the programs have been tested, they are provided as-is, without any warranty. The repository owner and contributors will not be liable for any damages or losses arising from the use of these programs.
 
-<p align="justify"> 
-Program 6 • Write a PHP program to keep track of the number of visitors visiting the web pageand to display this count of visitors, with proper headings.
-</p>
+It is recommended to use these programs for learning purposes and to verify their functionality in a controlled environment before applying them to production or real-world applications. Additionally, ensure that you comply with any licenses or restrictions associated with the web technologies and libraries being used.
 
-<p align="justify"> 
-Program 7 • Write a PHP program to display a digital clock which displays the current time of the server.
-</p>
-
-<p align="justify"> 
-Program 8 • Write the PHP programs to do the following:<br>
-a) Implement simple calculator operations.<br>
-b) Find the transpose of a matrix.<br>
-c) Multiplication of two matrices.<br>
-d) Addition of two matrices.<br>
-</p>
-
-<p align="justify"> 
-Program 9 • Write a PHP program named states.py that declares a variable states with value “Mississippi Alabama Texas Massachusetts Kansas". write a PHP program that does the following:<br>
-a) Search for a word in variable states that ends in xas. Store this word in element0 of a list named states List.<br>
-b) Search for a word in states that begins with k and ends in s. Perform a case-insensitive comparison. [Note: Passing re.Ias a second parameter to method compile performs a case-insensitive comparison.] Store this word in element1of states List.<br>
-c) Search for a word in states that begins with M and ends in s. Store this word in element 2 of the list.<br>
-d) Search for a word in states that ends in a. Store this word in element 3 of the list.<br>
-</p>
-
-<p align="justify"> 
-Program 10 • Write a PHP program to sort the student records which are stored in the database using selection sort.
-</p>
+Please exercise caution and follow proper security practices when working with web technologies and applications.
